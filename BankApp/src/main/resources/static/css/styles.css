@@ -1,0 +1,57 @@
+.navbar-custom {
+            background-color: #e6e9ed;
+        }
+        .navbar-custom .navbar-brand,
+        .navbar-custom .nav-link {
+            color: #000000;
+        }
+        .navbar-custom .nav-link:hover {
+            color: #d4d4d4;
+        }
+        .get:hover {
+            background: rgb(71, 71, 250);
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+            color: #151515;
+        }
+        .hero-section {
+            background: rgb(94, 94, 255);
+            background-size: cover;
+            color: white;
+            padding: 6rem 0;
+            text-align: center;
+        }
+        .hero-section h1 {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+        }
+        .hero-section p {
+            font-size: 1.25rem;
+            margin-bottom: 2rem;
+        }
+        .features-section {
+            padding: 3rem 0;
+        }
+        .feature {
+            padding: 2rem;
+            background-color: #f8f9fa;
+            border-radius: 0.5rem;
+            transition: transform 0.3s;
+        }
+        .feature:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+        }
+        .feature img {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 1rem;
+        }
+        footer {
+            background-color: #e6e9ed;
+            color: rgb(0, 0, 0);
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .breadth{
+            width: 230px;
+        }

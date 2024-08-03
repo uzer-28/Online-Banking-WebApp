@@ -1,0 +1,54 @@
+body {
+			background-color: #f8f9fa;
+			/* Light grey background */
+			font-family: Arial, sans-serif;
+			/* Default font */
+		}
+
+		.card {
+			border: none;
+			/* Remove card border */
+			border-radius: 15px;
+			/* Rounded corners */
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+			/* Soft shadow */
+		}
+
+		.card-header {
+			background-color: #007bff;
+			/* Bank's primary color */
+			color: #fff;
+			/* White text */
+			border-radius: 15px 15px 0 0;
+			/* Rounded top corners */
+		}
+
+		.card-body {
+			padding: 2rem;
+			/* Padding inside card body */
+		}
+
+		.form-control {
+			border-radius: 5px;
+			/* Rounded form inputs */
+		}
+
+		.btn-primary {
+			background-color: #007bff;
+			/* Bank's primary color for buttons */
+			border-color: #007bff;
+			/* Matching border color */
+			border-radius: 5px;
+			/* Rounded button corners */
+		}
+
+		.btn-primary:hover {
+			background-color: #0056b3;
+			/* Darker shade on hover */
+			border-color: #0056b3;
+			/* Darker border on hover */
+		}
+
+		.text-muted {
+			color: #6c757d !important;
+		}
